@@ -1,0 +1,23 @@
+Boolean transformation
+----------------------
+
+Churn
+Partner
+Dependents
+Phone service
+Multiple lines
+Online security
+Online backup
+Device protection
+Tech support
+Streaming TV
+Streaming movies
+Paperless billing
+
+
+feature engineering
+--------------------
+
+Internet service : create a column stating if there is internet service (0 or 1) before creating dummies.
+
+Payment method : create a column stating if the payment is automatic.
